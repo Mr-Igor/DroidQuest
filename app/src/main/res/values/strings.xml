@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">DroidQuest</string>
+    <string name="Who">Да</string>
+    <string name="Net">Нет</string>
+    <string name="incorr">Не верно!</string>
+    <string name="corr">Верно!</string>
+    <string name="action">Settings</string>
+    <string name="question_android">ОС Android основана на ядре Linux?</string>
+    <string name="question_linear">Разметка LinearLayout позиционирует свои дочерние элементы в сторки и столбцы?</string>
+    <string name="question_service">Компонент Android-приложения Service предоставляют доступ к данным?</string>
+    <string name="question_res">Ресурсы приложения содержатся в отдельном файле XML?</string>
+    <string name="question_manifest">AndroidManifest.xml предоставляет системе основную информацию о программе?</string>
+    <string name="question_1">Объектно-ориентированное программирование — методология программирования, основанная на представлении программы в виде совокупности объектов, каждый из которых является экземпляром определенного класса, а классы образуют иерархию наследования?</string>
+    <string name="question_2">Несколько методов с одинаковым названием, но разным набором параметров, это перегрузка?</string>
+    <string name="question_3">Изменение поведения метода класса относительно родительского, является переопределением?</string>
+    <string name="question_4">Обычный метод класса работает от объекта класса, а static-метод от всего класса?</string>
+    <string name="question_5">this-это указатель на текущий объект класса внутри самого класса?</string>
+    <string name="war_text">Вы уверены, что хотите это сделать?</string>
+    <string name="show_answer_button">Показать ответ</string>
+    <string name="deceit_button">Обмануть!</string>
+    <string name="judgment_toast">Обманывать нельзя.</string>
+</resources>
